@@ -331,9 +331,9 @@ Future improvements may include:
 
 ## Author & License
 
-**© All rights reserved – Susan Wanja Kariuki**
-
 This project was created as part of a professional portfolio to demonstrate practical marketing analytics using Power BI.
 
 - TikTok: [@wanja_analyst](https://www.tiktok.com/@wanja_analyst)  
 - LinkedIn: [Susan Wanja Kariuki](https://www.linkedin.com/in/susan-wanja-1b63a6234/)  
+
+© 2025 | Susan Wanja | Data Analytics Portfolio
