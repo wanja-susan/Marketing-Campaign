@@ -1,4 +1,4 @@
-# Marketing-Campaign
+# Marketing-Campaign Analysis
 
 ![20943871-marketing-scaled-removebg-preview](https://github.com/user-attachments/assets/8ffaf741-e319-4805-a4df-68724b67d884)
 
@@ -11,16 +11,14 @@ The goal of this campaign was to:
 
 - Boost engagement through email, app, web, and social campaigns
 
-- Drive improvements in saving behavior, user retention, and ROI
+- Drive improvements in saving behavior, user retention, and Return on Investment(ROI)
 
 The campaign was structured in three phases; Before, During, and After, with each phase offering a unique lens into user activity, channel performance, and campaign effectiveness. This analysis helps the Ziwatech team understand what worked, what didn’t, and how to continuously improve future outreach efforts.
 
 Ultimately, this project supports Ziwatech’s mission: to change the narrative around saving, proving that you don’t need to “save big” to get started. With QuickSave, every small step counts.
 
 <details>
-<summary> Table of Contents </summary>
-
-<br>
+<summary>Table of Contents</summary>
 
 - [Project Overview](#project-overview)  
 - [Data Sources](#data-sources)  
@@ -29,11 +27,13 @@ Ultimately, this project supports Ziwatech’s mission: to change the narrative 
   - [During the Campaign](#during-the-campaign)  
   - [After the Campaign](#after-the-campaign)  
 - [Tools and Techniques](#tools-and-techniques)  
-- [Key Insights and Visualizations](#key-insights-and-visualizations)  
 - [How to Use This Project](#how-to-use-this-project)  
-- [Conclusion](#conclusion)
+- [Challenges](#challenges)  
+- [Recommendations](#recommendations)  
+- [Conclusion](#conclusion)  
+- [Author & License](#author--license)
 
-  </details>
+</details>
 
 # **Data Sources**
 
@@ -91,8 +91,12 @@ This dataset provides a strong foundation for evaluating campaign impact and mak
 
 The analysis follows a structured approach across three distinct phases; Before, During, and After the campaign. Each phase serves a specific purpose in evaluating the effectiveness and ROI of the QuickSave promotional efforts.
 
-**Before the Campaign**
+### Before the Campaign
 ![image](https://github.com/user-attachments/assets/bb4e5144-99bd-4919-b5f4-ec213a8b7891)
+
+
+https://github.com/user-attachments/assets/a3f8fb9c-33f8-4c7e-bd18-80d51bf2986f
+
 
 The pre-campaign analysis focused on establishing performance baselines and setting realistic campaign targets. This included:
 
@@ -108,9 +112,9 @@ The pre-campaign analysis focused on establishing performance baselines and sett
 
 This groundwork provided a clear view of where the campaign needed to have the most impact and informed strategy alignment with product goals.
 
-## Key Insights and Visualizations – Before the Campaign
+**Key Insights and Visualizations – Before the Campaign**
 
-### 1. Balanced Platform Engagement, But Web Slightly Leads
+###  Balanced Platform Engagement, But Web Slightly Leads
 
 ![image](https://github.com/user-attachments/assets/fdd8f8ef-855a-4d00-9bce-2d5937987ee6)
 
@@ -121,7 +125,7 @@ Among the 500 total users, platform usage was fairly distributed:
 
 While the differences are modest, the Web platform had a slight lead in engagement. This suggests that pre-campaign targeting should not overly favor one platform, but Web may serve as a good testing ground for new features or messaging.
 
-### 4. Product Interest Was Inconsistent Across Pre-Campaign Months
+### Product Interest Was Inconsistent Across Pre-Campaign Months
 
 ![image](https://github.com/user-attachments/assets/b3f55f31-0182-41c7-a7c1-dae50f302780)
 
@@ -133,8 +137,12 @@ The line chart comparing average product views for **September**, **October**, a
 
 This inconsistency suggests that without campaign stimulation, product interest was largely erratic. These fluctuations informed the campaign’s objective to **stabilize user engagement and increase average daily product views** through consistent messaging and behavioral nudges.
 
-**During the Campaign**
+## During the Campaign
 ![image](https://github.com/user-attachments/assets/42922c23-781b-4600-a55d-1705bf58985a)
+
+
+https://github.com/user-attachments/assets/7f7e29ab-6be5-425b-af2e-651a19311c5b
+
 
 During the active campaign period, real-time performance was monitored to assess traction and guide tactical adjustments. This phase included:
 
@@ -150,7 +158,7 @@ During the active campaign period, real-time performance was monitored to assess
 
 The campaign was continuously optimized using these insights to maximize reach and ROI while staying agile in execution.
 
-### 1. Significant Variability in Ad Spend Allocation Across States
+### Significant Variability in Ad Spend Allocation Across States
 
 ![image](https://github.com/user-attachments/assets/75693694-66de-46e4-ada0-5f9a65264ef0)
 
@@ -160,11 +168,15 @@ The "Daily Ad Spend by State" matrix highlights how ad budget was distributed ac
 - **Colorado and Georgia received comparatively lower budgets**, though Georgia had notable spikes (Days 2 and 5).
 - **Washington maintained a stable mid-to-high spend**, peaking on Days 5 and 10.
 
-This variability suggests a strategic allocation of resources—likely aligned with regional performance forecasts or audience density. However, the fluctuating spend patterns also raise questions about **optimization consistency**, pointing to the need for more dynamic budget reallocation strategies in future campaigns based on live performance data.
+This variability suggests a strategic allocation of resources, likely aligned with regional performance forecasts or audience density. However, the fluctuating spend patterns also raise questions about **optimization consistency**, pointing to the need for more dynamic budget reallocation strategies in future campaigns based on live performance data.
 
-**After the Campaign**
+### After the Campaign
 
 ![image](https://github.com/user-attachments/assets/cf30a49b-045a-4211-89de-625b485ec2a0)
+
+
+https://github.com/user-attachments/assets/f9be0fe3-48f4-491d-8f84-0ffe9b68115e
+
 
 Post-campaign analysis focused on evaluating outcomes against initial goals and drawing insights for future strategy. This included:
 
@@ -180,7 +192,7 @@ Post-campaign analysis focused on evaluating outcomes against initial goals and 
 
 The after-campaign evaluation not only demonstrated campaign impact but also generated strategic insights to guide long-term marketing planning.
 
-### 1. Revenue Peaked Midway Through the Post-Campaign Window
+### Revenue Peaked Midway Through the Post-Campaign Window
 
 ![image](https://github.com/user-attachments/assets/75683f67-8435-432b-a024-bd2bd3767911)
 
@@ -192,7 +204,7 @@ The line chart depicting "Revenue Generated Over Time" reveals a significant mid
 
 This trend suggests that while the campaign successfully triggered a **strong short-term revenue lift**, it lacked mechanisms to **sustain user conversion or repeat behavior**. Future campaigns should consider incorporating post-campaign engagement strategies (e.g., email follow-ups, goal reminders) to maintain revenue consistency beyond peak days.
 
-### 2. Conversion Rate Showed Sharp Peaks with Poor Retention
+### Conversion Rate Showed Sharp Peaks with Poor Retention
 ![image](https://github.com/user-attachments/assets/133c1869-45e0-4ec8-9b65-ed1c14f5b2ba)
 
 The "Conversion Rate Over Time" chart reveals an inconsistent pattern post-campaign:
@@ -201,7 +213,7 @@ The "Conversion Rate Over Time" chart reveals an inconsistent pattern post-campa
 - After the peak, conversion rates dropped sharply on **January 25 and 27**, falling below 0.14 before recovering slightly.
 - The fluctuations suggest initial campaign excitement quickly faded, with limited sustained conversion momentum.
 
-These results highlight a potential **gap in follow-through mechanisms**—such as nurture sequences, product reminders, or post-signup incentives. To improve future outcomes, campaigns should integrate strategies to **retain converted users and maintain momentum** beyond the campaign's active push.
+These results highlight a potential **gap in follow-through mechanisms**, such as nurture sequences, product reminders, or post-signup incentives. To improve future outcomes, campaigns should integrate strategies to **retain converted users and maintain momentum** beyond the campaign's active push.
 
 ## Tools and Techniques
 
@@ -238,11 +250,11 @@ This project was developed using Microsoft Power BI, leveraging its full suite o
 This combination of tools enabled a flexible, scalable, and insightful dashboard that supports both tactical campaign reviews and strategic planning.
 ## How to Use This Project
 
-This Power BI dashboard is structured across three interactive pages—**Before Campaign**, **During Campaign**, and **After Campaign**—to provide a full view of the marketing campaign lifecycle.
+This Power BI dashboard is structured across three interactive pages—**Before Campaign**, **During Campaign**, and **After Campaign**; to provide a full view of the marketing campaign lifecycle.
 
 ### Navigating the Dashboard
 
-- Use the **left-side navigation panel** to switch between campaign phases.
+- Use the **left-side navigation panel** to switch between campaign phases.(ctrl+click)
 - Filters are available at the top of each page for:
   - **Location:** View metrics by U.S. state
   - **Date Range:** Analyze a specific campaign window
@@ -264,7 +276,7 @@ Hover over any chart or data point to see exact values and breakdowns.
 While developing the Marketing Campaign Analysis dashboard, several challenges were encountered:
 
 ### 1. Simulated Data Limitations
-Since the project is based on mock data, certain real-world nuances—such as seasonality, user churn, or campaign fatigue—could not be fully modeled. This limited the ability to test long-term strategies or predict actual customer behavior with complete accuracy.
+Since the project is based on mock data, certain real-world nuances—such as seasonality, user churn, or campaign fatigue, could not be fully modeled. This limited the ability to test long-term strategies or predict actual customer behavior with complete accuracy.
 
 ### 2. Balancing Simplicity with Depth
 Designing a dashboard that is both beginner-friendly and analytically rich required iterative refinement. Key trade-offs included:
